@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 1,
   "updatedAt": "2026-06-04",
   "campaigns": [
     "00_CAMPAIGN_NAME",
@@ -63,6 +63,7 @@
     "verkiezingen25",
     "verkoopprijsbepaler",
     "verzekering",
+    "vve",
     "warmtepomp",
     "wc1123",
     "welkom",
@@ -70,8 +71,7 @@
     "wonen_always_on",
     "woz",
     "woz2026",
-    "zonnepanelen",
-    "vve",
+    "zonnepanelen"
   ],
   "mediums": [
     "affiliate",
