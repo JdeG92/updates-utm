@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-06-05",
   "campaigns": [
     "00_CAMPAIGN_NAME",
@@ -70,8 +70,7 @@
     "wonen_always_on",
     "woz",
     "woz2026",
-    "zonnepanelen",
-    "vve"
+    "zonnepanelen"
   ],
   "mediums": [
     "affiliate",
