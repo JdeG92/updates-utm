@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updatedAt": "2026-06-09",
   "campaigns": [
     "00_CAMPAIGN_NAME",
@@ -40,12 +40,10 @@
     "ju",
     "klusservice",
     "koopwijzer",
-    "kopen2025",
     "kt_fundering",
     "kt_verzekeren",
     "lekdetectie",
     "lidmaatschap",
-    "merk51",
     "olk",
     "olk-v",
     "onderhoud",
@@ -53,14 +51,10 @@
     "open_huizen_dag",
     "schoorsteen",
     "spoedklusservice",
-    "starter_hoofd-2025",
-    "starter_sub_2025",
     "testamentadvies",
     "vda",
-    "verbouwen",
     "verduurzamen",
     "verduurzamingskrant",
-    "verkiezingen25",
     "verkoopprijsbepaler",
     "verzekering",
     "warmtepomp",
@@ -71,7 +65,24 @@
     "woz",
     "woz2026",
     "zonnepanelen",
-    "vve"
+    "vve",
+    "vve_e_advies",
+    "cie55",
+    "cie56",
+    "cie57",
+    "belastingaangifte",
+    "cito2",
+    "cito3",
+    "cito4",
+    "ciw13",
+    "ciw14",
+    "ciz40",
+    "ciz41",
+    "ctb",
+    "gemeenteraadsverkiezingen",
+    "makelaarsmisstanden",
+    "mjop",
+    "oar"
   ],
   "mediums": [
     "affiliate",
@@ -93,25 +104,7 @@
   "sourcesByMedium": {
     "affiliate": [
       "funda",
-      "seniorweb",
-      "#affiliate03",
-      "#affiliate04",
-      "#affiliate05",
-      "#affiliate06",
-      "#affiliate07",
-      "#affiliate08",
-      "#affiliate09",
-      "#affiliate10",
-      "#affiliate11",
-      "#affiliate12",
-      "#affiliate13",
-      "#affiliate14",
-      "#affiliate15",
-      "#affiliate16",
-      "#affiliate17",
-      "#affiliate18",
-      "#affiliate19",
-      "#affiliate20"
+      "seniorweb"
     ],
     "email": [
       "algemene_nieuwsbrief",
@@ -129,11 +122,7 @@
       "service_mail",
       "taf",
       "vve_nieuwsbrief",
-      "#email16",
-      "#email17",
-      "#email18",
-      "#email19",
-      "#email20"
+      "eerlijkbieden"
     ],
     "offsite": [
       "alias",
@@ -148,14 +137,7 @@
       "wachtbandje",
       "webcare",
       "webinar",
-      "#offline13",
-      "#offline14",
-      "#offline15",
-      "#offline16",
-      "#offline17",
-      "#offline18",
-      "#offline19",
-      "#offline20"
+      "voucher"
     ],
     "organic_search": [
       "#organic_search01",
@@ -176,8 +158,7 @@
       "#organic_search16",
       "#organic_search17",
       "#organic_search18",
-      "#organic_search19",
-      "#organic_search20"
+      "#organic_search19"
     ],
     "organic_social": [
       "linkedin",
@@ -265,7 +246,8 @@
       "#paid_native17",
       "#paid_native18",
       "#paid_native19",
-      "#paid_native20"
+      "#paid_native20",
+      "fanstr"
     ],
     "paid_search": [
       "bing",
@@ -352,8 +334,7 @@
       "#referral16",
       "#referral17",
       "#referral18",
-      "#referral19",
-      "#referral20"
+      "#referral19"
     ]
   },
   "sourceCodes": {
@@ -398,7 +379,10 @@
     "strossle",
     "talpa",
     "thuisnotaris",
-    "zendermix"
+    "zendermix",
+    "dpg",
+    "fanstr",
+    "youtube"
   ],
   "formats": [
     "10sec_spot",
