@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updatedAt": "2026-06-05",
+  "version": 10,
+  "updatedAt": "2026-06-09",
   "campaigns": [
     "00_CAMPAIGN_NAME",
     "aflossingsvrije_hypotheek",
@@ -71,7 +71,8 @@
     "woz",
     "woz2026",
     "zonnepanelen",
-    "vve"
+    "vve",
+    "vve2"
   ],
   "mediums": [
     "affiliate",
