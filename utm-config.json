@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updatedAt": "2026-06-30",
   "campaigns": [
     "00_CAMPAIGN_NAME",
@@ -79,8 +79,7 @@
     "gemeenteraadsverkiezingen",
     "makelaarsmisstanden",
     "mjop",
-    "oar",
-    "vve_e_advies"
+    "oar"
   ],
   "mediums": [
     "affiliate",
