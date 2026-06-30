@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updatedAt": "2026-06-30",
   "campaigns": [
     "00_CAMPAIGN_NAME",
@@ -8,13 +8,10 @@
     "beheer_ehh",
     "beleef",
     "btk",
-    "cie54",
-    "cito1",
     "ciw",
     "ciw11",
     "ciw12",
     "ciz",
-    "ciz38",
     "ciz39",
     "cv",
     "dakgoot",
@@ -82,7 +79,8 @@
     "gemeenteraadsverkiezingen",
     "makelaarsmisstanden",
     "mjop",
-    "oar"
+    "oar",
+    "vve_e_advies"
   ],
   "mediums": [
     "affiliate",
@@ -167,7 +165,6 @@
       "pinterest",
       "twitter",
       "youtube",
-      "#organic_social07",
       "#organic_social08",
       "#organic_social09",
       "#organic_social10",
@@ -382,7 +379,9 @@
     "zendermix",
     "dpg",
     "fanstr",
-    "youtube"
+    "youtube",
+    "eerlijkbieden",
+    "mjourney"
   ],
   "formats": [
     "10sec_spot",
