@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-06-09",
+  "version": 13,
+  "updatedAt": "2026-06-30",
   "campaigns": [
     "00_CAMPAIGN_NAME",
     "aflossingsvrije_hypotheek",
@@ -417,7 +417,8 @@
     "sponsorblok",
     "tekstlink",
     "video",
-    "wide-skyscraper"
+    "wide-skyscraper",
+    "header_afbeelding"
   ],
   "tactics": [
     "see",
